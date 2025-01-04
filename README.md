@@ -107,15 +107,22 @@ WAREHOUSE ASSOCIATE
 
 LOGISTICS COORDINATOR
 
-• Monitored quality, quantity, delivery times, and transport costs of automobile spareparts. Managed vehicle inflow and outflow, vehicle service, job cards, troubleshooting vehicle issues etc.
+• Monitored quality, quantity, delivery times, and transport costs of automobile spareparts.
 
-• Received outstanding feedback for providing attentiveness and patience when assisting dissatisfied customers.Contributed to business growth by ensuring that customerswere satisfied with service and quality. Documented and scoped actions taken to resolve issues after service calls.
+• Managed vehicle inflow and outflow, vehicle service, job cards, troubleshooting vehicle issues etc.
+
+• Received outstanding feedback for providing attentiveness and patience when assisting dissatisfied customers.
+
+• Contributed to business growth by ensuring that customerswere satisfied with service and quality. 
+
+• Documented and scoped actions taken to resolve issues after service calls.
   
 **RALDIA EVENTS, TRIVANDRUM	(2019-2021)**
 
 WAREHOUSE EXECUTIVE
 
 •	Ensured that inventory levels are maintained at appropriate levels and review ways to reduce stock levels and make cost savings and Monitor stock movements.
+
 •	Supervised staff from different departments to provide constructive feedback and recommendations for improvement.
 
 
