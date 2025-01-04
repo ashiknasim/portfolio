@@ -1,9 +1,13 @@
 # portfolio
 ## EDUCATION
-Master of Business Administration                                                                                                   2024-2026
+•	Master of Business Administration                                                        2024-2026
+
 Business Analytics Kerala Digital University (pursuing)
-Bachelor of Technology	2013-2017
+
+•	Bachelor of Technology	                                                                  2013-2017
+
 Mechanical Engineering Kerala University
+
 CGPA : 6.11
 
 ## DATA SCIENCE PROJECTS
@@ -12,16 +16,23 @@ CGPA : 6.11
 **Biz-Sense: AI-Enhanced Marketing Study Guide for MBA students**
 
 •	Designed an AI-powered study guide leveraging Retrieval-Augmented Generation (RAG) technology to create dynamic, personalized content for MBA students in Business Analytics.
+
 •	Integrated industry-relevant datasets and AI-driven insights to enhance the learning experience.
+
 •	Incorporated university question paper generation features for self evaluation and exam preparation.
+
 •	Delivered a comprehensive solution tailored to address the challenges faced by MBA students in mastering complex marketing concepts.
 
 **TELECOM CHURN PREDICTION USING ML ALGORITHMS**
 
 •	Developed a machine learning model to predict customer churn in the telecom industry using supervised learning techniques.
+
 •	Performed extensive exploratory data analysis (EDA) to identify key factors contributing to churn.
+
 •	Implemented feature selection techniques to optimize model inputs, enhancing predictive accuracy.
+
 •	Utilized algorithms such as Random Forest and Gradient Boosting, achieving high precision and recall.
+
 •	Provided actionable insights for telecom companies to improve customer retention strategies.
 
 **POTATO DISEASE DETECTION USING DL ALGORITHMS**
