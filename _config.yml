@@ -1,6 +1,7 @@
 title: Ashik Nasim
-logo: assets/headshot_circle.png.jfif
-description: Data Scientist
-Skilled in Python and Machine Learning for Data-Driven Solutions
-#show_downloads: true
+logo: assets/headshot_circle.jfif
+description: >
+  Data Scientist skilled in Python and Machine Learning for Data-Driven Solutions
+# Uncomment the following line if you want to enable download links
+# show_downloads: true
 theme: jekyll-theme-minimal
